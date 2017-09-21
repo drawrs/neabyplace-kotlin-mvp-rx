@@ -1,0 +1,7 @@
+#Thu Sep 21 12:37:59 WIB 2017
+base.0=/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01e3b3b572c8112625fb45ef3f2f3cc9c0f20552
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_476a988ab06afb73488394f7c44f223300fefcb9/classes.dex
+base.1=/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_476a988ab06afb73488394f7c44f223300fefcb9
+file.0=/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01e3b3b572c8112625fb45ef3f2f3cc9c0f20552/classes.dex

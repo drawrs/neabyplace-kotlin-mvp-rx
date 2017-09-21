@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/35930fb7111d29411a6a1716d0663ff304426e53/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/70504f6b92cbc0b59f3cf6b7bb99a1f524bccfa9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.android/build-cache/2fb5943701cbbc73088a7ce9735230da312c3665/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.android/build-cache/906b7c6ccc104dbbf67367d0e466212637890530/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/e6763abd8cdf388ebebedf89bca82b5502882a81/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /root/.android/build-cache/98dcb062a7d603f8b15afdd5bd328bb0d3bf1bf9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.android/build-cache/33e2cf32f08dbc423bff4a62798aeb4861895a21/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.android/build-cache/37f11086561671c69a67ad06d8de3a3d2641cbab/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.android/build-cache/d6b95eac3ad30548767766bbbf85b78e8ab1f463/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.android/build-cache/fddfdb2c94d73a9a72b0294d2cd38d6b7092326e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /root/.android/build-cache/ef3a7b14ef6d5c85dbcbcc8fe9fa11c7eab87516/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/797e4e21fb8b9eb6a26316b68806db0c7f653dd5/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /root/.android/build-cache/fb84b8b69e8248c73201156268a118b71a5518a2/output/AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.khilman.tempatterdekat_kotlinmvp.MainActivity
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/35930fb7111d29411a6a1716d0663ff304426e53/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/70504f6b92cbc0b59f3cf6b7bb99a1f524bccfa9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.android/build-cache/2fb5943701cbbc73088a7ce9735230da312c3665/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.android/build-cache/906b7c6ccc104dbbf67367d0e466212637890530/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /root/.android/build-cache/cca2c757c6cefc34f14608495ccfac507435b91d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/e6763abd8cdf388ebebedf89bca82b5502882a81/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /root/.android/build-cache/98dcb062a7d603f8b15afdd5bd328bb0d3bf1bf9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.android/build-cache/33e2cf32f08dbc423bff4a62798aeb4861895a21/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.android/build-cache/37f11086561671c69a67ad06d8de3a3d2641cbab/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.android/build-cache/d6b95eac3ad30548767766bbbf85b78e8ab1f463/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.android/build-cache/fddfdb2c94d73a9a72b0294d2cd38d6b7092326e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /root/.android/build-cache/ef3a7b14ef6d5c85dbcbcc8fe9fa11c7eab87516/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/797e4e21fb8b9eb6a26316b68806db0c7f653dd5/output/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /root/.android/build-cache/74924f65b711fa3191b5d365c447be5691fce81c/output/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:cardview-v7:26.1.0] /root/.android/build-cache/fb84b8b69e8248c73201156268a118b71a5518a2/output/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.android/build-cache/2fb5943701cbbc73088a7ce9735230da312c3665/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.android/build-cache/906b7c6ccc104dbbf67367d0e466212637890530/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /root/.android/build-cache/cca2c757c6cefc34f14608495ccfac507435b91d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/e6763abd8cdf388ebebedf89bca82b5502882a81/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.1.0] /root/.android/build-cache/98dcb062a7d603f8b15afdd5bd328bb0d3bf1bf9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.android/build-cache/33e2cf32f08dbc423bff4a62798aeb4861895a21/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.android/build-cache/37f11086561671c69a67ad06d8de3a3d2641cbab/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.android/build-cache/d6b95eac3ad30548767766bbbf85b78e8ab1f463/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.android/build-cache/fddfdb2c94d73a9a72b0294d2cd38d6b7092326e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /root/.android/build-cache/ef3a7b14ef6d5c85dbcbcc8fe9fa11c7eab87516/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /root/.android/build-cache/fb84b8b69e8248c73201156268a118b71a5518a2/output/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/AndroidManifest.xml:26:9-47
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/797e4e21fb8b9eb6a26316b68806db0c7f653dd5/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/797e4e21fb8b9eb6a26316b68806db0c7f653dd5/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/797e4e21fb8b9eb6a26316b68806db0c7f653dd5/output/AndroidManifest.xml:26:13-58

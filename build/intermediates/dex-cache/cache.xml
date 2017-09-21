@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_476a988ab06afb73488394f7c44f223300fefcb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5efc82b2f8255a37dd7e2579691eb755f1b55273">
+        <dex dex="/home/khilman/Documents/KotlinID/TempatTerdekat_KotlinMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01e3b3b572c8112625fb45ef3f2f3cc9c0f20552/classes.dex" />
+    </item>
+
+</items>
